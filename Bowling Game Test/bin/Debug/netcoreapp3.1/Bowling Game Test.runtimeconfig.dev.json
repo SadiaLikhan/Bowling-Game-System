@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\likha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\likha\\.nuget\\packages"
+    ]
+  }
+}

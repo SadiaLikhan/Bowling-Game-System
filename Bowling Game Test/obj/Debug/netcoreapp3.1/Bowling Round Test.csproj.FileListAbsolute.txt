@@ -1,0 +1,4 @@
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game Test\obj\Debug\netcoreapp3.1\Bowling Round Test.csprojAssemblyReference.cache
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game Test\obj\Debug\netcoreapp3.1\Bowling Round Test.AssemblyInfoInputs.cache
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game Test\obj\Debug\netcoreapp3.1\Bowling Round Test.AssemblyInfo.cs
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game Test\obj\Debug\netcoreapp3.1\Bowling Round Test.csproj.CoreCompileInputs.cache

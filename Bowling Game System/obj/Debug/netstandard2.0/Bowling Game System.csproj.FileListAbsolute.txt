@@ -1,0 +1,9 @@
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\bin\Debug\netstandard2.0\Bowling Game System.deps.json
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\bin\Debug\netstandard2.0\Bowling Game System.dll
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\bin\Debug\netstandard2.0\Bowling Game System.pdb
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\obj\Debug\netstandard2.0\Bowling Game System.csprojAssemblyReference.cache
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\obj\Debug\netstandard2.0\Bowling Game System.AssemblyInfoInputs.cache
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\obj\Debug\netstandard2.0\Bowling Game System.AssemblyInfo.cs
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\obj\Debug\netstandard2.0\Bowling Game System.csproj.CoreCompileInputs.cache
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\obj\Debug\netstandard2.0\Bowling Game System.dll
+C:\Users\likha\source\repos\Bowling Game System\Bowling Game System\obj\Debug\netstandard2.0\Bowling Game System.pdb
